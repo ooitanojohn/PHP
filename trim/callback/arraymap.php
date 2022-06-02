@@ -13,7 +13,6 @@ function triming($post): string
 {
   $post = str_replace(" ", "", $post);
   $post = trim($post);
-
   // ${$key} = $post; // 関数内のscopeでしか反映されない
   // $_POST[$key] = $post; // arraymapはkey指定が出来ない
   return $post; // 処理した要素をreturnする
