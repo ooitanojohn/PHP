@@ -1,3 +1,17 @@
-bool,1key-value,jp,Japanus,USAcn,China
-
+bool,1
+int,1
+float,1.23
+string,foobar
+array,0,apple
+1,orange
+2,strawberry
+key-value,jp,Japan
+us,USA
+cn,China
+n-val,0,2-array-val
+1,0,3-array-val
+1,0,4-array-val
+n-key-value,0,0,4-array-key,4-array-val
+3-array-key,3-array-val
+2-array-key,2-array-val
 
