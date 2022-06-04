@@ -21,7 +21,7 @@ function func(引数) : 戻り値の型{
 
 # [本題 n次元配列の要素をすべて出力する](./recursive_function_2.php)
 - n次元の要素が入り乱れている配列
-- ベースケースとしては全て出力すれば終了
+- ベースケースとしては言語構造であるforeachのポインタが最後まで到達したら
 
 ```php
 function n_array_string(array $data = []):string
