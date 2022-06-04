@@ -105,7 +105,7 @@ cn,China
 ### いくつかの分からない所がある
 $string の初期化; // 関数呼び出し事に初期化される
 $string = 'bool,1' と $stirng = 'jp,Japan\nus,USA\ncn,China'が何故結合している？
-
+→
 再帰呼び出しした後何故
 
 ```PHP 確認用テストデータ
